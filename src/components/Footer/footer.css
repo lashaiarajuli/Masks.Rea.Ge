@@ -1,0 +1,50 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    height: 40px;
+    background: rgb(232, 219, 219);
+}
+
+footer span {
+    color: rgb(255, 68, 0);
+    font-size: 15px;
+    font-family: "Roboto Mono", monospace;
+    letter-spacing: -1.5px;
+}
+
+footer div {
+    font-size: 12px;
+}
+
+.credit{
+    font-family: "Noto Sans Display", sans-serif;
+}
+
+.icons {
+    display: flex;
+    gap: 0.5rem;
+    padding: 2px;
+}
+
+.icons>* {
+    font-size: 16px;
+    transition: 0.6s;
+}
+
+.icons>*:hover {
+    transform: scale(1.2);
+}
+
+.fa-linkedin {
+    color: #0A66C2;
+}
+
+.fa-square-facebook {
+    color: #0866FF;
+}
+
+.fa-github {
+    color: black;
+}

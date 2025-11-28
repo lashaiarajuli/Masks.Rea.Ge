@@ -1,0 +1,143 @@
+@media(max-width: 850px){
+    .map {
+        height: 350px;
+        width: 600px;
+    }
+
+    .title-con {
+        top: 10px;
+        letter-spacing: 2px;
+        font-size: 15px;
+    }
+
+    .map img {
+        height: 300px;
+    }
+
+    .fa-facebook-square {
+        position: absolute;
+        right: 35%;
+        bottom: 180px;
+        font-size: 45px;
+        padding: 3px 5px;
+    }
+
+    .contact-info {
+        font-size: 12px;
+    }
+
+    .ri-phone-line {
+        font-size: 15px;
+        color: red;
+    }
+
+    .fa-viber {
+        color: purple;
+        font-size: 15px;
+    }
+
+    .fa-square-whatsapp {
+        font-size: 16.5px;
+        color: green;
+    }
+}
+
+@media(max-width: 650px){
+    .map {
+        height: 300px;
+        width: 400px;
+    }
+
+    .title-con {
+        font-size: 10px;
+    }
+
+    .map img {
+        height: 250px;
+    }
+
+    .fa-facebook-square {
+        right: 31%;
+        bottom: 150px;
+        border-radius: 7px;
+    }
+
+    .contact-info {
+        font-size: 9px;
+    }
+
+    .ri-phone-line {
+        font-size: 12px;
+        color: red;
+    }
+
+    .fa-viber {
+        color: purple;
+        font-size: 12px;
+    }
+
+    .fa-square-whatsapp {
+        font-size: 13px;
+        color: green;
+    }
+}
+
+@media(max-width: 440px) {
+    .contact {
+        padding: 0 2% 10px 2%;
+    }
+
+    .map {
+        height: 250px;
+        width: 100%;
+    }
+
+    .title-con {
+        font-size: 8px;
+    }
+
+    .map img {
+        height: 200px;
+    }
+
+    .fa-facebook-square {
+        right: 35%;
+        bottom: 125px;
+        font-size: 30px;
+        padding: 2px 3px;
+        border-radius: 5px;
+    }
+
+    .contact-info {
+        font-size: 8px;
+    }
+
+    .ri-phone-line {
+        font-size: 10px;
+        color: red;
+    }
+
+    .fa-viber {
+        color: purple;
+        font-size: 10px;
+    }
+
+    .fa-square-whatsapp {
+        font-size: 11px;
+        color: green;
+    }
+}
+
+@media(max-width: 380px) {
+    .fa-facebook-square {
+        right: 32%;
+
+    }
+}
+
+@media(max-width: 340px) {
+    .fa-facebook-square {
+        right: 30%;
+
+    }
+}
