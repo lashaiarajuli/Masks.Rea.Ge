@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Masks.Rea.Ge"
+  base: "/Masks.Rea.Ge/"
 })
